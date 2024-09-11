@@ -11,10 +11,10 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Michi',
 	imageBackground: false,
 	openInNewTab: true,
-	twelveHourFormat: false,
+	twelveHourFormat: true,
 
 	// Greetings
 	greetingMorning: 'Good morning!',
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Todo',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://drive.proton.me/',
 		},
 		{
 			id: '4',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -94,7 +94,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Music',
 			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			link: 'https://music.youtube.com/',
 		},
 		{
 			id: '2',
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Lo-Fi',
+					link: 'https://music.youtube.com/watch?v=t8OZPJfpcTM&si=XGynSOjvj8V2AC1O',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Podcast',
+					link: 'https://music.youtube.com/playlist?list=PLycTNLUo2y2EAKEhVfxB9gYo6r0OTMgM0&si=T3OYYoXWRGARXLRD',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Liked Songs',
+					link: 'https://music.youtube.com/playlist?list=PL8uEpq8hg-Pbo8TeY3OmEJxCeFT5XEpkX',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'All Songs',
+					link: 'https://music.youtube.com/playlist?list=LM',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'school',
+					link: 'https://bw.schule',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'moodle',
+					link: 'https://04104371160.moodle.bw.schule/my/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'untis',
+					link: 'https://hepta.webuntis.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'notion',
+					link: 'https://www.notion.so',
 				},
 			],
 		},
