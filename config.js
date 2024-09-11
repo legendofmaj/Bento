@@ -26,14 +26,14 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: '1fb14d9b1d962b5f83f1922bbacfe4d3', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '48.775845',
+	defaultLongitude: '9.182932',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Todo',
 			icon: 'trello',
-			link: 'https://drive.proton.me/',
+			link: 'https://docs.proton.me/u/1/doc?mode=open&volumeId=s7ltW6yylApZEFdo7G2-6KfD5G43jZyHDRke445_upJia1lFrLc5ya_DZ9Gf3k9UQrcgf2i7xkOUeGNBecsulQ%3D%3D&linkId=-QB-WHMMApqyorytmch_2Tals0o-N8mLlMvwAFh4MBctdN3IAj_Tj04UXocrQhNv2mH6byWn5aXfVcm7ObWhlA%3D%3D',
 		},
 		{
 			id: '4',
