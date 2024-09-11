@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Todo',
-			icon: 'trello',
+			icon: 'circle-check',
 			link: 'https://docs.proton.me/u/1/doc?mode=open&volumeId=s7ltW6yylApZEFdo7G2-6KfD5G43jZyHDRke445_upJia1lFrLc5ya_DZ9Gf3k9UQrcgf2i7xkOUeGNBecsulQ%3D%3D&linkId=-QB-WHMMApqyorytmch_2Tals0o-N8mLlMvwAFh4MBctdN3IAj_Tj04UXocrQhNv2mH6byWn5aXfVcm7ObWhlA%3D%3D',
 		},
 		{
@@ -139,25 +139,25 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Lo-Fi',
+					name: 'lo-fi',
 					link: 'https://music.youtube.com/watch?v=t8OZPJfpcTM&si=XGynSOjvj8V2AC1O',
 				},
 				{
-					name: 'Podcast',
+					name: 'podcast',
 					link: 'https://music.youtube.com/playlist?list=PLycTNLUo2y2EAKEhVfxB9gYo6r0OTMgM0&si=T3OYYoXWRGARXLRD',
 				},
 				{
-					name: 'Liked Songs',
+					name: 'liked songs',
 					link: 'https://music.youtube.com/playlist?list=PL8uEpq8hg-Pbo8TeY3OmEJxCeFT5XEpkX',
 				},
 				{
-					name: 'All Songs',
+					name: 'all songs',
 					link: 'https://music.youtube.com/playlist?list=LM',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'graduation-cap',
 			id: '2',
 			links: [
 				{
