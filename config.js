@@ -162,7 +162,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'school',
-					link: 'https://bw.schule',
+					link: 'https://www.mein-mpg.de/',
 				},
 				{
 					name: 'moodle',
