@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Todo',
 			icon: 'circle-check',
-			link: 'https://docs.proton.me/u/1/doc?mode=open&volumeId=s7ltW6yylApZEFdo7G2-6KfD5G43jZyHDRke445_upJia1lFrLc5ya_DZ9Gf3k9UQrcgf2i7xkOUeGNBecsulQ%3D%3D&linkId=-QB-WHMMApqyorytmch_2Tals0o-N8mLlMvwAFh4MBctdN3IAj_Tj04UXocrQhNv2mH6byWn5aXfVcm7ObWhlA%3D%3D',
+			link: 'https://tasks.google.com',
 		},
 		{
 			id: '4',
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'WhatsApp',
 			icon: 'message-square-text',
-			link: 'https://reddit.com',
+			link: 'https://web.whatsapp.com/',
 		},
 		{
 			id: '6',
